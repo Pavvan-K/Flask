@@ -1,0 +1,1 @@
+This python Flask app will be connected to webhook of Github. So whenever there is some even changes happend in github then it will automatically sends payload and displays what changes had been done.
